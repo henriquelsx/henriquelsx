@@ -5,7 +5,7 @@
 - 🌱 Estudando Java e JavaScript.
 - 👯 Procurando conhecer amigos/parceiros no mundo da programação
 - 📫 Contato: henriquelsx@hotmail.com
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/henriquelsx">
