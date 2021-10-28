@@ -1,10 +1,10 @@
 ### Olá mundo, eu sou o Henrique Lima Xavier 👋
 
 
-- 🔭 Hoje trabalho com software Open Source
-- 🌱 Estudando Java e JavaScript.
-- 👯 Procurando conhecer amigos/parceiros no mundo da programação
-- 📫 Contato: henriquelsx@hotmail.com
+- 🔭 Currently working with software OpenSource
+- 🌱 Studying Java/Javascript/Typescript
+- 👯 Searching for friends in the Coding World
+- 📫 Mail to: henriquelsx@hotmail.com
 
 
 <div align="center">
