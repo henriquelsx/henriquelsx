@@ -32,6 +32,6 @@ Backend & DevOps Engineer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/henriquelsx">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelsx&layout=compact&langs_count=7&theme=dracula"/>
 <div/>
